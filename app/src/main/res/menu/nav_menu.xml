@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/A"
+        android:icon="@drawable/a"
+        android:title="Refresh" />
+    <item
+        android:id="@+id/B"
+        android:icon="@drawable/b"
+        android:title="Pin point" />
+    <item
+        android:id="@+id/C"
+        android:icon="@drawable/c"
+        android:title="Mind game" />
+    <item
+        android:id="@+id/D"
+        android:icon="@drawable/d"
+        android:title="Location" />
+    <item
+        android:id="@+id/E"
+        android:icon="@drawable/e"
+        android:title="Virus" />
+</menu>
